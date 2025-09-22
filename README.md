@@ -12,7 +12,7 @@ Passionate about cybersecurity and eager to transition into the field, with the 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1xUj9Ddcc1vtNsFA_SksUxgeA2K7oAVbM/edit?usp=sharing&ouid=107799846991608332867&rtpof=true&sd=true)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1xUj9Ddcc1vtNsFA_SksUxgeA2K7oAVbM/edit?usp=sharing&ouid=107799846991608332867&rtpof=true&sd=true)" target="_blank">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
