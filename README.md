@@ -1,5 +1,5 @@
 # Hello, I'm Sanele 
-<a href="www.linkedin.com/in/sanele-mgudu-92b798300"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/sanele-mgudu-92b798300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <hr>
 
 
