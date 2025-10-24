@@ -41,7 +41,6 @@ Passionate about cybersecurity and eager to transition into the field, with the 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://drive.google.com/file/d/1nusgEYcslGpuIGtdkhFtREVW5L25FS2C/view?usp=drive_link"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1K9YHvWMSBqAybd34rdCwynwEiewZpsFu/view?usp=drive_link"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
