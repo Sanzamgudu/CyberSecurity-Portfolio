@@ -27,7 +27,7 @@ Passionate about cybersecurity and eager to transition into the field, with the 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://docs.google.com/document/d/1xUj9Ddcc1vtNsFA_SksUxgeA2K7oAVbM/edit?usp=sharing&ouid=107799846991608332867&rtpof=true&sd=true)" target="_blank"> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white"/> </a>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
